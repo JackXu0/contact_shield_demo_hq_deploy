@@ -7,8 +7,8 @@
 #### General Idea:
 
 - All devices keep exchanging annoymous identifiers using Bluetooth
-- If someone is tested positive, he need to upload his annoymous identifiers to the server everyday for everyone to download
-- All users can download patient identifiers and compare identifiers they collect to get their latest exposure information
+- If someone is tested positive, he needs to upload his annoymous identifiers to the server everyday for everyone to download
+- All users can download patient identifiers from server and compare identifiers they collect to get their latest exposure information
 
 #### Device suggestion:
 

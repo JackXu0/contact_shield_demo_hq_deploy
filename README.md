@@ -22,7 +22,7 @@ We are going to collect some statistical data during the test. This data can hel
 
 ### How we test:
 
-There will be no real patients in our test. Thus, we need to designate someone to be patients. All designated patients will need to 'upload their annoymous identifiers' to the server EVERYDAY. At the same time, all participants should refresh to 'check their status' at least once a day. This app will make a record when you upload your identifiers or click refresh, and sychronize data with the server. Apart from these two auto collected information, it helps if we can know where are all participants located and how they interacts with each other everyday.
+There will be no real patients in our test. Thus, we need to designate someone to be patients. All designated patients will need to 'upload their anonymous identifiers' to the server EVERYDAY. At the same time, all participants should refresh to 'check their status' at least once a day. This app will make a record when you upload your identifiers or click refresh and synchronize data with the server. Apart from these two auto collected information, it helps if we can know where are all participants located and how they interacts with each other everyday.
 
 ##### Upload annoymous identifiers (Patients):
 

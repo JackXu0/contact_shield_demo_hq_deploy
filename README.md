@@ -38,13 +38,13 @@ There will be no real patients in our test. Thus, we need to designate someone t
 
 ###### **Both QR code and TAN code are available at http://3.16.177.15:5000/portal**
 
-<img src="/Users/zhuocheng/Documents/GitHub/contact_shield_demo_hq_deploy/images/portal.png" alt="portal" style="zoom:50%;" />
+<img src="images/portal.png" alt="portal" style="zoom:50%;" />
 
 ##### Check current status (All Participants):
 
 Click REFRESH button on the main page to get the latest status.
 
-<img src="/Users/zhuocheng/Documents/GitHub/contact_shield_demo_hq_deploy/images/refresh.png" alt="refresh" style="zoom:60%;" />
+<img src="images/refresh.png" alt="refresh" style="zoom:60%;" />
 
 ### Device suggestion:
 
